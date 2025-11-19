@@ -1,6 +1,6 @@
 # 🚨 Alertas Service
 
-Microserviço desenvolvido na **Sprint 4 de SOA & Web Services (FIAP)**, responsável pelo registro e gerenciamento de **alertas de comportamento anormal** dentro da plataforma XP BetSafe.
+Microserviço desenvolvido na **Sprint 4 de SOA & Web Services (FIAP)**, responsável pelo registro e gerenciamento de **alertas de comportamento anormal** dentro da plataforma XP BetSafe
 
 ---
 
